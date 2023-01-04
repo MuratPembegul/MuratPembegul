@@ -1,9 +1,3 @@
 ## Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür.
 
-### Bana Ulaş:
-
-[Facebook]: https://www.facebook.com/murat.pembegul.14
-
-[İnstagram]: https://www.instagram.com/m_42pembegul/
-
-[E-Mail]:  mpembegul15@gmail.com
+<img src="https://giphy.com/gifs/falcaolucas-animated-3d-eternal-siege-3xz2BtNxiBNTisHygM" align="right" width="400" height="260"> 
