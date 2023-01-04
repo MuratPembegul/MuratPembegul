@@ -1,3 +1,3 @@
-##  Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür. ☝️ :
+##  Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür. ☝️ 
  
 
