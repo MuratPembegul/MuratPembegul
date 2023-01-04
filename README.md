@@ -15,6 +15,6 @@
  )
  ![icons8-instagram-60](https://user-images.githubusercontent.com/121448902/210607729-682fa99a-68e3-4241-98f3-444a27f191a7.png)https://www.instagram.com/m_42pembegul/
 ![icons8-twitter-60](https://user-images.githubusercontent.com/121448902/210607782-b35ed479-78a8-46e7-b56c-ac28c9a12500.png)https://twitter.com/murat_pembegul
-![icons8-youtube-60](https://user-images.githubusercontent.com/121448902/210610802-c55c039c-e556dabbaa60aa81.png)https://www.youtube.com/channel/UCThQmrdmK2Ad6euvBN1Yh7Q
+
 
 
