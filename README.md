@@ -2,7 +2,7 @@
 
 ### Hi! I`m Murat 😆 :blush: 🧑‍🎨 
 
-For now I`m learning the languages I left on icon 👷‍♂️
+For now I`m learning the languages I left on icon :octocat: 👷‍♂️
 
 ## Güneşe arkasını dönen gölgesinin peşinden yürür  ❤️
  
