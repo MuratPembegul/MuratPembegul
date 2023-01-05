@@ -15,7 +15,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul">
 </details><br>
  
-### Bana Ulaş 👈 <br>
+### Bana Ulaş 👈 👎 <br>
  
  
 ![icons8-facebook-60 ](https://user-images.githubusercontent.com/121448902/210606786-22f64798-5119-4ba4-9f0f-7fe0a991bea5.png )https://www.facebook.com/murat.pembegul.14<br> 
