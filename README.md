@@ -2,7 +2,7 @@
 
 ### Hi! I`m Murat 😆 :blush: 🧑‍🎨 
 
-For now I`m learning the languages I left on icon :octocat: 👷‍♂️
+Şimdilik ikona bıraktığım dilleri öğreniyorum. :octocat: 👷‍♂️
 
 ## Güneşe arkasını dönen gölgesinin peşinden yürür  ❤️
  
@@ -18,7 +18,7 @@ For now I`m learning the languages I left on icon :octocat: 👷‍♂️
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul">
 </details><br>
  
-### You can reach me through any of these: 👈 👎 <br>
+### Bana bunların herhangi birisinden ulaşabilirsiniz: 👈 👎 <br>
  
  
 ![icons8-facebook-60 ](https://user-images.githubusercontent.com/121448902/210606786-22f64798-5119-4ba4-9f0f-7fe0a991bea5.png )https://www.facebook.com/murat.pembegul.14<br> 
