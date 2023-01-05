@@ -12,8 +12,13 @@
  
  <details>
 <summary :bulb:>Github Stats</summary>
- <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul">
-</details>
+ <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul&dark">
+</details><br>
+
+ <details>
+<summary :bulb:>Most Used Languages</summary>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul">
+</details><br>
 
  
  
