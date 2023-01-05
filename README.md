@@ -4,8 +4,6 @@
 
 For now I`m learning the languages I left on icon 👷‍♂️
 
-I`m not professional, I`m doing this can as an amateur and hobby. My dream is to start my own company.
-
 ## Güneşe arkasını dönen gölgesinin peşinden yürür  ❤️
  
  
