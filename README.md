@@ -2,7 +2,7 @@
 
 ## Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür ❤️
 
-![giphy(https://user-images.githubusercontent.com/121448902/210749358-e37c98ea-d786-41a2-b6aa-42f213e6c8d1.gif)text-aling="right" width="384" height="260" 
+![giphy(https://user-images.githubusercontent.com/121448902/210749358-e37c98ea-d786-41a2-b6aa-42f213e6c8d1.gif)
 
 ### Bana Ulaş
 
