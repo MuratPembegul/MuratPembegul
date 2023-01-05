@@ -2,7 +2,7 @@
 
 ## Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür ❤️
 
-<iframe src="https://giphy.com/embed/128Ygie2wLdH5m" aling="right" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-reality-mind-128Ygie2wLdH5m">via GIPHY</a></p>
+<img src="https://giphy.com/embed/128Ygie2wLdH5m" aling="right" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-reality-mind-128Ygie2wLdH5m">via GIPHY</a></p>
 
 
 ### Bana Ulaş
