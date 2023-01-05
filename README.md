@@ -1,8 +1,8 @@
+![giphy (2)](https://user-images.githubusercontent.com/121448902/210765637-c83dd868-3fb0-4968-aa5a-d145d28f4e36.gif)
 ### Merhaba Ben Murat :blush: 🧑‍🎨 
 
 ## Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür ❤️
 
-<p><img src="https://user-images.githubusercontent.com/121448902/210753864-875f6388-1e3d-4746-8b81-586c29971378.gif" style="float:center;width:460px;height:220px></p>
 
  
  
