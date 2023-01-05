@@ -7,7 +7,7 @@
  
  <details>
 <summary> :bulb: Github Stats</summary>
- <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul&themedark">
+ <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul&theme=dark">
 </details><br>
 
  <details>
