@@ -12,7 +12,7 @@
 
  
  
-![icons8-instagram-60](https://user-images.githubusercontent.com/121448902/210607729-682fa99a-68e3-4241-98f3-444a27f191a7.png)https://www.instagram.com/m_42pembegul/<br>
+
  
 ![icons8-twitter-60](https://user-images.githubusercontent.com/121448902/210623920-551fa946-561c-4fb1-b2ea-23deee94ce18.png)https://twitter.com/murat_pembegul<br>
  
