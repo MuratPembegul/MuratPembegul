@@ -2,6 +2,8 @@
 
 ### Hi! I`m Murat 😆 :blush: 🧑‍🎨 
 
+I`m learning the languages I left icon 👷‍♂️
+
 ## Güneşe arkasını dönen gölgesinin peşinden yürür  ❤️
  
  
