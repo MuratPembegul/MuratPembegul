@@ -1,8 +1,8 @@
 ![giphy (2)](https://user-images.githubusercontent.com/121448902/210799922-fa0568be-788b-4abb-a648-7da4436a12b8.gif)
 
-### Merhaba Ben Murat :blush: 🧑‍🎨 
+### Hi! I`m Murat 😆 :blush: 🧑‍🎨 
 
-## Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür ❤️
+## Güneşe arkasını dönen gölgesinin peşinden yürür  ❤️
  
  
  
@@ -16,7 +16,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul">
 </details><br>
  
-### Bana Ulaş 👈 👎 <br>
+### You can reach me through any of these: 👈 👎 <br>
  
  
 ![icons8-facebook-60 ](https://user-images.githubusercontent.com/121448902/210606786-22f64798-5119-4ba4-9f0f-7fe0a991bea5.png )https://www.facebook.com/murat.pembegul.14<br> 
