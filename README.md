@@ -2,13 +2,6 @@
 ### Merhaba Ben Murat :blush: 🧑‍🎨 
 
 ## Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür ❤️
-
-
- 
- 
- 
- 
- ### Bana Ulaş <br>
  
  
  
@@ -21,7 +14,8 @@
 <summary> :bulb: Most Used Languages</summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul">
 </details><br>
-
+ 
+### Bana Ulaş <br>
  
  
 
