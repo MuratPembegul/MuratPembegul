@@ -1,9 +1,7 @@
 ### Merhaba Ben Murat :blush: 🧑‍🎨 
 
 ## Güneşe Arkasını Dönen Gölgesinin Peşinden Yürür ❤️
-
-![giphy(https://user-images.githubusercontent.com/121448902/210749358-e37c98ea-d786-41a2-b6aa-42f213e6c8d1.gif)
-
+![giphy](https://user-images.githubusercontent.com/121448902/210753864-875f6388-1e3d-4746-8b81-586c29971378.gif)
 ### Bana Ulaş
 
 ![icons8-facebook-60 ](https://user-images.githubusercontent.com/121448902/210606786-22f64798-5119-4ba4-9f0f-7fe0a991bea5.png )https://www.facebook.com/murat.pembegul.14<br> 
