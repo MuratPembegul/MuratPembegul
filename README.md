@@ -15,7 +15,7 @@
 
  <details>
 <summary> :bulb: Most Used Languages</summary>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&theme=radical">
 </details><br>
  
 ### Bana bunların herhangi birisinden ulaşabilirsiniz: 👈 👎 <br>
