@@ -29,6 +29,7 @@ https://www.instagram.com/m_42pembegul<br>
  
  ### Kullandığım Editör:
  ![icons8-visual-studio-code-2019-60](https://user-images.githubusercontent.com/121448902/211033361-2da93c6f-b9a1-4401-ba31-12f99082a2f0.png)
+![icons8-visual-studio-60](https://user-images.githubusercontent.com/121448902/211034608-7c8574a5-084f-430c-b0a1-598b6bdcf945.png)
 
  
  ### Diller: 
