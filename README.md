@@ -1,6 +1,6 @@
 ![giphy (2)](https://user-images.githubusercontent.com/121448902/210799922-fa0568be-788b-4abb-a648-7da4436a12b8.gif)
 
-### Herkese Selam 😆 :blush: 🧑‍🎨
+### |: .... :| Herkese Selam 😆 :blush: 🧑‍🎨
 
 Şimdilik ikona bıraktığım dilleri öğreniyorum. :octocat: 👷‍♂️
 
@@ -20,8 +20,8 @@
  
 ### Bana bunların herhangi birisinden ulaşabilirsiniz: 👈 👎 <br>
 
- ```html 
-<a href="![icons8-facebook-60](https://user-images.githubusercontent.com/121448902/210606786-22f64798-5119-4ba4-9f0f-7fe0a991bea5.png)https://www.facebook.com/murat.pembegul.14"<br> 
+ 
+![icons8-facebook-60](https://user-images.githubusercontent.com/121448902/210606786-22f64798-5119-4ba4-9f0f-7fe0a991bea5.png)https://www.facebook.com/murat.pembegul.14<br> 
 ![icons8-instagram-60](https://user-images.githubusercontent.com/121448902/210781571-3ed9ac92-d555-4696-b099-a758718649a6.png)
 https://www.instagram.com/m_42pembegul<br>
 ![icons8-twitter-60](https://user-images.githubusercontent.com/121448902/210623920-551fa946-561c-4fb1-b2ea-23deee94ce18.png)https://twitter.com/murat_pembegul<br>
