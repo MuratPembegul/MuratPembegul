@@ -1,6 +1,6 @@
 ![giphy (2)](https://user-images.githubusercontent.com/121448902/210799922-fa0568be-788b-4abb-a648-7da4436a12b8.gif)
 
-### |: .... :| Herkese Selam 😆 :blush: 🧑‍🎨
+### Herkese Selam 😆 :blush: 🧑‍🎨
 
 Şimdilik ikona bıraktığım dilleri öğreniyorum. :octocat: 👷‍♂️
 
