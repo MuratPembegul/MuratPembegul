@@ -1,8 +1,8 @@
 ![giphy (2)](https://user-images.githubusercontent.com/121448902/210799922-fa0568be-788b-4abb-a648-7da4436a12b8.gif)
 
-### Herkese Selam 😆 :blush: 🧑‍🎨
+### Herkese Selam :blush: 
 
-Şimdilik ikona bıraktığım dilleri öğreniyorum. :octocat: 👷‍♂️
+Şimdilik ikona bıraktığım dilleri öğreniyorum. :octocat: 
 
 ## Güneşe arkasını dönen gölgesinin peşinden yürür  ❤️
  
@@ -18,7 +18,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&theme=radical">
 </details><br>
  
-### Bana bunların herhangi birisinden ulaşabilirsiniz: 👈 👎 <br>
+### Bana bunların herhangi birisinden ulaşabilirsiniz: :b <br>
 
  
 ![icons8-facebook-60](https://user-images.githubusercontent.com/121448902/210606786-22f64798-5119-4ba4-9f0f-7fe0a991bea5.png)https://www.facebook.com/murat.pembegul.14<br> 
