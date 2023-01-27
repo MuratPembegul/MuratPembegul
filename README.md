@@ -1,20 +1,20 @@
 ![giphy (2)](https://user-images.githubusercontent.com/121448902/210799922-fa0568be-788b-4abb-a648-7da4436a12b8.gif)
 
-### Herkese Selam. 
+### Herkese Selam.  
 
 Şimdilik ikona bıraktığım dilleri öğreniyorum. 
 
-## Güneşe arkasını dönen gölgesinin peşinden yürür.
+### Güneşe arkasını dönen gölgesinin peşinden yürür. :two_hearts:
  
  
  
  <details>
-<summary> Github İstatistikleri</summary>
+<summary> :bulb: Github İstatistikleri</summary> 
  <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul&theme=radical">
 </details><br>
 
  <details>
-<summary> En Çok Kullanılan Diller </summary>
+<summary> :bulb: En Çok Kullanılan Diller </summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&theme=radical">
 </details><br>
  
