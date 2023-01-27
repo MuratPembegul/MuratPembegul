@@ -4,17 +4,17 @@
 
 Şimdilik ikona bıraktığım dilleri öğreniyorum. 
 
-### Güneşe arkasını dönen gölgesinin peşinden yürür. :two_hearts:
+### Güneşe arkasını dönen gölgesinin peşinden yürür.
  
  
  
  <details>
-<summary> :bulb: Github İstatistikleri</summary> 
+<summary> Github İstatistikleri</summary> 
  <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul&theme=radical">
 </details><br>
 
  <details>
-<summary> :bulb: En Çok Kullanılan Diller </summary>
+<summary> En Çok Kullanılan Diller </summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&theme=radical">
 </details><br>
  
