@@ -24,6 +24,7 @@
 [Youtube](https://www.youtube.com/channel/UCThQmrdmK2Ad6euvBN1Yh7Q) [E-Mail](https://mpembegul15@gmail.com)
  
 
+
  
 ### Kullandığım Editörler:
  ![icons8-visual-studio-code-2019-60](https://user-images.githubusercontent.com/121448902/211033361-2da93c6f-b9a1-4401-ba31-12f99082a2f0.png)
