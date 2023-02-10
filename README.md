@@ -36,6 +36,9 @@
 ![icons8-javascript-48](https://user-images.githubusercontent.com/121448902/210796510-0bbb1264-0fd5-44a1-9292-425bbdc7f30d.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/121448902/210796568-f035cee5-dc1e-4655-b12c-790bcdd05565.png)
 ![icons8-visual-basic-48](https://user-images.githubusercontent.com/121448902/210796602-4a573afd-ec1c-4abd-894a-5a9495ddd918.png)
+![icons8-c-programming-60](https://user-images.githubusercontent.com/121448902/218138708-2975d182-8343-422e-9177-6c8469c8917b.png)
+![icons8-java-60](https://user-images.githubusercontent.com/121448902/218138763-6c287c19-8682-4c32-b146-c6e33e5fe20f.png)
+![icons8-c++-60](https://user-images.githubusercontent.com/121448902/218138803-71c6c971-80d0-4e73-9516-12e7f24b5766.png)
 
 
 
