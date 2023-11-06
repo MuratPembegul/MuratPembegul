@@ -3,17 +3,35 @@
 ### Hello to everyone
 
 
-### 
- 
- 
- 
+### | $$ \        |_ _ _ _ _ _ _ _   | $$\
+    | $$   \      |                  |   $$\
+    | $$    |     |$ $ $ $ $ $ $ $   |     $$\
+    | $$    \     |                  |       $$\
+    | $$     \    |                  |         $$\
+    | $$      /   |                  |           $$\   
+    | $$    /     |_ _ _ _ _ _ _ _   |             $$\
+    | $$   /      |                  |              $$/
+    | $$          |$ $ $ $ $ $ $ $   |             $$/
+    | $$ /        |                  |            $$/
+    | $$ \        |                  |           $$/
+    | $$   \      |                  |          $$/
+    | $$     \    |                  |         $$/
+    | $$       \  |$ $ $ $ $ $ $ $   |        $$/
+    | $$         \|_ _ _ _ _ _ _ _   | $$_ _ $$/
+    
+
+
+
+                                   
+
+
  <details>
-<summary> Github İstatistikleri</summary> 
+<summary> My Github Stats</summary> 
  <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul&theme=radical">
 </details><br>
 
  <details>
-<summary> En Çok Kullanılan Diller </summary>
+<summary> Languages </summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&theme=radical">
 </details><br>
  
