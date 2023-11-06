@@ -24,12 +24,12 @@
 
 
 
-### <details>
+ <details>
 <summary> My Github Stats</summary> 
  <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul&theme=radical">
 </details><br>
 
-### <details>
+ <details>
 <summary> Languages </summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&theme=radical">
 </details><br>
