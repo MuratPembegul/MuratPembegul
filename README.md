@@ -37,6 +37,7 @@
   ### Languages: 
 
 ![icons8-python-48](https://user-images.githubusercontent.com/121448902/210796568-f035cee5-dc1e-4655-b12c-790bcdd05565.png)
+![icons8-c-sharp-logo-2-48](https://github.com/user-attachments/assets/f9e054aa-0f35-4d72-a18b-8c044516f5c4)
 
 
 
