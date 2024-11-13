@@ -32,12 +32,12 @@
  
 ### Editors I use:
  ![icons8-visual-studio-code-2019-60](https://user-images.githubusercontent.com/121448902/211033361-2da93c6f-b9a1-4401-ba31-12f99082a2f0.png)
-![icons8-visual-studio-60](https://user-images.githubusercontent.com/121448902/211034608-7c8574a5-084f-430c-b0a1-598b6bdcf945.png)
+
 
   ### Languages: 
 
 ![icons8-python-48](https://user-images.githubusercontent.com/121448902/210796568-f035cee5-dc1e-4655-b12c-790bcdd05565.png)
-![icons8-c-sharp-logo-2-48](https://github.com/user-attachments/assets/f9e054aa-0f35-4d72-a18b-8c044516f5c4)
+
 
 
 
