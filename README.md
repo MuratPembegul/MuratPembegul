@@ -39,13 +39,6 @@
 
 ![icons8-python-48](https://user-images.githubusercontent.com/121448902/210796568-f035cee5-dc1e-4655-b12c-790bcdd05565.png)
 
-![Yılan animasyonu]( https://raw.githubusercontent.com/{MuratPembegul}/{MuratPembegul}/output/github-contribution-grid-snake-dark.svg )
-
-https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/main/github-contribution-grid-snake.svg
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/main/github-contribution-grid-snake.svg)
-
-
 
 
 
