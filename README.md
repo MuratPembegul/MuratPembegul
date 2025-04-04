@@ -40,6 +40,7 @@
 
 ![Yılan animasyonu]( https://raw.githubusercontent.com/{MuratPembegul}/{MuratPembegul}/output/github-contribution-grid-snake-dark.svg )
 
+https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/main/github-contribution-grid-snake.svg
 
 
 
