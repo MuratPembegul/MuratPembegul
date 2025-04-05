@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Yılan Oyunu</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #0d1117;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    #board {
+      background-color: #161b22;
+    }
+  </style>
+</head>
+<body>
+  <svg id="board" width="300" height="110">
+    <!-- Katkı kutuları -->
+    <rect x="10" y="10" width="10" height="10" fill="#ebedf0"/>
+    <rect x="25" y="10" width="10" height="10" fill="#9be9a8"/>
+    <rect x="40" y="10" width="10" height="10" fill="#40c463"/>
+    <!-- Yem -->
+    <circle id="food" cx="70" cy="15" r="5" fill="red" />
+    <!-- Yılan -->
+    <circle id="snake" cx="10" cy="15" r="6" fill="green" />
+  </svg>
+
+  <script>
+    const snake = document.getElementById("snake");
+    const food = document.getElementById("food");
+
+    let posX = 10;
+    const interval = setInterval(() => {
+      posX += 1;
+      snake.setAttribute("cx", posX);
+
+      // Yem yediyse:
+      if (posX >= 70) {
+        food.style.display = "none";
+        clearInterval(interval);
+      }
+    }, 30);
+  </script>
+</body>
+</html>
+
