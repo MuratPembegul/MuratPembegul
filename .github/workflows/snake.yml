@@ -17,7 +17,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=green&color_dots=#e4f0e8,#a2d2b2,#6fbf90,#3aa06e,#0a804e
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v2
         with:
           name: snake-artifacts
           path: dist
