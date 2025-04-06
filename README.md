@@ -44,17 +44,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuratPembegul&theme=onedark&rank=SSS,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### 🐍 GitHub Snake
 
-![snake gif](https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/output/github-contribution-grid-snake.svg)
 
-## 🐍 GitHub Snake Animasyonum
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<MuratPembegul>/<MuratPembegul>/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<MuratPembegul>/<MuratPembegul>/output/github-contribution-grid-snake.svg" />
-  <img alt="snake gif" src="https://raw.githubusercontent.com/<KULLANICI-ADIN>/<REPO-ADIN>/output/github-contribution-grid-snake.svg" />
-</picture>
+
 
 
 
