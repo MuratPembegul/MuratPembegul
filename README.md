@@ -46,7 +46,7 @@
 
 ### 🐍 GitHub Snake
 
-![snake gif](https://raw.githubusercontent.com/<MuratPembegul>/<MuratPembegul>/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/output/github-contribution-grid-snake.svg)
 
 ## 🐍 GitHub Snake Animasyonum
 
