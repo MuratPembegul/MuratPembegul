@@ -53,6 +53,7 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/muratpembegul/muratpembegul/gh-pages/dist/github-snake.svg" />
 </picture>
 
+<img src="https://raw.githubusercontent.com/muratpembegul/muratpembegul/gh-pages/dist/ocean.gif" />
 
 
 
