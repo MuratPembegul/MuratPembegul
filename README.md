@@ -43,9 +43,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuratPembegul&theme=onedark&rank=SSS,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h1 align="center">🐍 GitHub Activity Snake 🐍</h1>
 
+<img src="https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/output/github-contribution-grid-snake.gif" width="100%" />
 
-https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/output/github-contribution-grid-snake.gif
 
 
 
