@@ -45,7 +45,8 @@
 
 <h1 align="center">🐍 GitHub Activity Snake 🐍</h1>
 
-![snake gif](https://github.com/MuratPembegul/MuratPembegul/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/output/github-contribution-grid-snake.gif)
+
 
 
 
