@@ -48,10 +48,15 @@
 ![snake gif](https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/output/github-contribution-grid-snake.gif)
 
 
-   ### 👀 Ziyaretçi Sayısı
+  <h3 align="center">👁️‍🗨️ Ziyaretçi Sayısı</h3>
+
+<p align="center">
+  <img src="https://hitwebcounter.com/counter/counter.php?page=20266057&style=0049&nbdigits=6&type=page&initCount=0" title="Ziyaretçi Sayısı" alt="Ziyaretçi Sayacı" border="0" />
+</p>
 
 
-   ![Visitor Count](https://komarev.com/ghpvc/?username=MuratPembegul&color=green)
+
+  
 
 
 
