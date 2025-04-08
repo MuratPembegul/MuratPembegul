@@ -50,9 +50,8 @@
 
   <h3 align="center">👁️‍🗨️ Ziyaretçi Sayısı</h3>
 
-<p align="center">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=20266057&style=0049&nbdigits=6&type=page&initCount=0" title="Ziyaretçi Sayısı" alt="Ziyaretçi Sayacı" border="0" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/MuratPembegul/count.svg)
+
 
 
 
