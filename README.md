@@ -48,9 +48,12 @@
 ![snake gif](https://raw.githubusercontent.com/MuratPembegul/MuratPembegul/output/github-contribution-grid-snake.gif)
 
 
-  <h3 align="center">👁️‍🗨️ Ziyaretçi Sayısı</h3>
+  <h3 align="center">  Ziyaretçi Sayısı</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/MuratPembegul/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/MuratPembegul/count.svg" alt="Visitor Count" />
+</p>
+
 
 
 
