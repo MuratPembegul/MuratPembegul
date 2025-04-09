@@ -3,7 +3,11 @@
 
 ###  Hello, I'm Murat! Welcome to my page. I hope you have a good time.
 ###  Don't forget to visit my page
-###  I have divided data science into various branches and there are also machine learning, artificial intelligence, and python lessons and exercises. I have numbered all of them.
+###  I Divided Data Science into Various Branches Also There Are Machine Learning Artificial Intelligence Python Lessons and Exercises I Numbered All of Them.
+
+What is there? 1-) Data Science - Statistics 2-) Data Science - Data Engineering 3-) Data Science - Machine Learning 4-) Data Science - Data Analytics 5-) Data Science - Big Data 6-) Data Science - Data Visualization 7-) Data Science - Natural Language Processing 8-) Data Science - Artificial Intelligence 9-) Data Science - Deep Learning 10-) Data Science - Business Intelligence 11-) Data Science - Experimental Design 12-) Python Lessons 13-) Simple Python Exercises
+Note: There Will Be More Added in the Future.
+Stay Tuned
 
 
 ###  **_Murat Pembegül_**
