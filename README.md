@@ -56,6 +56,7 @@ Let’s connect and make this journey amazing!
 — Murat Pembegül
 
 
+
 <h2 align="center">🌍✨ My Glowing Digital World Map ✨🌍</h2>
 <p align="center">🗓️ <strong>Added on:</strong> April 9, 2025</p>
 <p align="center">A colorful journey through Python, AI, and the Data Galaxy 🚀💚</p>
@@ -63,6 +64,7 @@ Let’s connect and make this journey amazing!
 <p align="center">
   <img src="https://github.com/MuratPembegul/MuratPembegul/blob/main/world-map.png?raw=true" alt="My World Map" width="800"/>
 </p>
+
 
 
                                                   
