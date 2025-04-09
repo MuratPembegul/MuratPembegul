@@ -75,14 +75,15 @@ Let’s connect and make this journey amazing!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&layout=compact&theme=radical)
 
 
+<p>### You can reach me from any of these: </p>
+<a href="https://www.facebook.com/murat.pembegul.14" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#4267B2; color:white; border-radius:5px;">Facebook</a>
+<a href="https://www.instagram.com/m_42pembegul" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#C13584; color:white; border-radius:5px;">Instagram</a>
+<a href="https://twitter.com/murat_pembegul" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#1DA1F2; color:white; border-radius:5px;">Twitter</a>
+<a href="https://www.youtube.com/channel/UCThQmrdmK2Ad6euvBN1Yh7Q" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#FF0000; color:white; border-radius:5px;">Youtube</a>
+<a href="mailto:mpembegul15@gmail.com" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#D44638; color:white; border-radius:5px;">E-Mail</a>
 
 
 
-### You can reach me from any of these: <br>
-[Facebook](https://www.facebook.com/murat.pembegul.14) [İnstagram](https://www.instagram.com/m_42pembegul) [Twitter](https://twitter.com/murat_pembegul) 
-
-[Youtube](https://www.youtube.com/channel/UCThQmrdmK2Ad6euvBN1Yh7Q) [E-Mail](https://mpembegul15@gmail.com)
- 
 
 
  
