@@ -66,26 +66,18 @@ Let’s connect and make this journey amazing!
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4M3pwbHNwNTM4Znd6MnAyczBqbDg0bGJ3OWt3bWNzcXdlMnBxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uAL7rcm0zPKH85AVv6/giphy.gif" alt="giphy funny" width="400"/>
 </p>
 
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuratPembegul&show_icons=true&theme=radical)
+
+## 🐍 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&layout=compact&theme=radical)
 
 
 
 
-                                                  
 
-
-
-
-
- <details>
-<summary> My Github Stats</summary> 
- <img src="https://github-readme-stats.vercel.app/api?username=MuratPembegul&theme=radical">
-</details><br>
-
- <details>
-<summary> Languages </summary>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&theme=radical">
-</details><br>
- 
 ### You can reach me from any of these: <br>
 [Facebook](https://www.facebook.com/murat.pembegul.14) [İnstagram](https://www.instagram.com/m_42pembegul) [Twitter](https://twitter.com/murat_pembegul) 
 
