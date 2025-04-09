@@ -75,13 +75,23 @@ Let’s connect and make this journey amazing!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuratPembegul&layout=compact&theme=radical)
 
 
-<p>### You can reach me from any of these: </p>
-<a href="https://www.facebook.com/murat.pembegul.14" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#4267B2; color:white; border-radius:5px;">Facebook</a>
-<a href="https://www.instagram.com/m_42pembegul" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#C13584; color:white; border-radius:5px;">Instagram</a>
-<a href="https://twitter.com/murat_pembegul" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#1DA1F2; color:white; border-radius:5px;">Twitter</a>
-<a href="https://www.youtube.com/channel/UCThQmrdmK2Ad6euvBN1Yh7Q" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#FF0000; color:white; border-radius:5px;">Youtube</a>
-<a href="mailto:mpembegul15@gmail.com" target="_blank" style="text-decoration:none; margin-right:10px; display:inline-block; padding:10px; background-color:#D44638; color:white; border-radius:5px;">E-Mail</a>
-
+<p align="center">
+  <a href="https://www.facebook.com/murat.pembegul.14">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/m_42pembegul">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/murat_pembegul">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCThQmrdmK2Ad6euvBN1Yh7Q">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:mpembegul15@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"/>
+  </a>
+</p>
 
 
 
