@@ -2,7 +2,8 @@
 
 
 ###  Hello, I'm Murat! Welcome to my page. I hope you have a good time.
-###  Don't forget to visit my page 
+###  Don't forget to visit my page
+###  I have divided data science into various branches and there are also machine learning, artificial intelligence, and python lessons and exercises. I have numbered all of them.
 
 
 ###  **_Murat Pembegül_**
