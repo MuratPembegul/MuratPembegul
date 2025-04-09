@@ -55,6 +55,7 @@ Let’s connect and make this journey amazing!
 > *"Small steps every day lead to big results."* 💚  
 — Murat Pembegül
 
+<img src="https://github.com/MuratPembegul/MuratPembegul/blob/main/world-map.png?raw=true" alt="My World Map" width="800"/>
 
                                                   
 
