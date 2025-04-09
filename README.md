@@ -1,29 +1,60 @@
 ![giphy (2)](https://user-images.githubusercontent.com/121448902/210799922-fa0568be-788b-4abb-a648-7da4436a12b8.gif)
 
 
-###  Hello, I'm Murat! Welcome to my page. I hope you have a good time.
-###  Don't forget to visit my page
-###  I Divided Data Science into Various Branches Also There Are Machine Learning Artificial Intelligence Python Lessons and Exercises I Numbered All of Them.
+# 👋 Hello, I'm Murat Pembegül!
 
-### What is there? 
-### 1-) Data Science - Statistics
-### 2-) Data Science - Data Engineering 
-### 3-) Data Science - Machine Learning 
-### 4-) Data Science - Data Analytics 
-### 5-) Data Science - Big Data 
-### 6-) Data Science - Data Visualization 
-### 7-) Data Science - Natural Language Processing 
-### 8-) Data Science - Artificial Intelligence 
-### 9-) Data Science - Deep Learning 
-### 10-) Data Science - Business Intelligence 
-### 11-) Data Science - Experimental Design 
-### 12-) Python Lessons 
-### 13-) Simple Python Exercises
-### Note: There Will Be More Added in the Future.
-### Stay Tuned
+Welcome to my GitHub profile. I hope you enjoy exploring my work! 🌟  
+Feel free to browse through the repositories and don’t forget to ⭐ star the ones you like.
 
+---
 
-###  **_Murat Pembegül_**
+## 🧠 About Me
+
+I'm passionate about **data science** and **programming**.  
+I'm learning step by step, and I love organizing information in a clean and structured way.  
+This page is my journey toward becoming a great programmer and data scientist. 🚀
+
+---
+
+## 📚 What You'll Find Here
+
+I divided **Data Science** into various specialized branches.  
+Each one includes Python files, lessons, and exercises — all numbered and categorized for easy navigation. 🔢
+
+### 🔍 Main Sections
+
+1. 🧮 Data Science – Statistics  
+2. ⚙️ Data Science – Data Engineering  
+3. 🤖 Data Science – Machine Learning  
+4. 📊 Data Science – Data Analytics  
+5. 🗃️ Data Science – Big Data  
+6. 📈 Data Science – Data Visualization  
+7. 🗣️ Data Science – Natural Language Processing  
+8. 🧠 Data Science – Artificial Intelligence  
+9. 🧬 Data Science – Deep Learning  
+10. 💼 Data Science – Business Intelligence  
+11. 🧪 Data Science – Experimental Design  
+12. 🐍 Python Lessons  
+13. 🧸 Simple Python Exercises  
+
+---
+
+## 📝 Note
+
+🚧 **This is a work in progress.**  
+New sections and code will be added regularly. Stay tuned and follow me for updates! 🌱
+
+---
+
+## 🙋‍♂️ Stay Connected
+
+Thanks for visiting my profile.  
+I'm always open to learning, sharing, and growing together.  
+Let’s connect and make this journey amazing!
+
+> *"Small steps every day lead to big results."* 💚  
+— Murat Pembegül
+
 
                                                   
 
