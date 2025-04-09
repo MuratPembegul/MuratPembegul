@@ -1,7 +1,7 @@
 ![giphy (2)](https://user-images.githubusercontent.com/121448902/210799922-fa0568be-788b-4abb-a648-7da4436a12b8.gif)
 
 
-### Merhaba ben Murat! Sayfama hoşgeldin. Umarim keyifli vakit geçirirsin. 
+###  Hello, I'm Murat! Welcome to my page. I hope you have a good time.
  
 
 
