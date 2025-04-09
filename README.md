@@ -61,10 +61,12 @@ Let’s connect and make this journey amazing!
 <p align="center">🗓️ <strong>Added on:</strong> April 9, 2025</p>
 <p align="center">A colorful journey through Python, AI, and the Data Galaxy 🚀💚</p>
 
-<p align="center">
+
 
   ![giphy](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI4M3pwbHNwNTM4Znd6MnAyczBqbDg0bGJ3OWt3bWNzcXdlMnBxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uAL7rcm0zPKH85AVv6/giphy.gif)
-</p>
+
+
+  ![giphy](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXY1OHNxYXM5d2xtdGVtY3lsdGFvbDBrZnd2djk4eHZpNTFoZWV0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ZIKbOOizB2JY5T3Hv/giphy.gif)
 
 
                                                   
