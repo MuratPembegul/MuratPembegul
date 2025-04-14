@@ -1,7 +1,8 @@
 ![giphy (2)](https://user-images.githubusercontent.com/121448902/210799922-fa0568be-788b-4abb-a648-7da4436a12b8.gif)
 
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=600&height=80&lines=Merhaba,+profilime+hoş+geldin!+👋;Hello,+welcome+to+my+profile!+🌍;Veri+Bilimi+ve+Yapay+Zeka+öğreniyorum+📊🧠;Learning+Data+Science+and+AI+with+curiosity+💡;Her+gün+bir+adım+daha+ileri+🚀;One+step+closer+every+day+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=600&height=100&lines=Merhaba,+profilime+hoş+geldin!+👋;Hello,+welcome+to+my+profile!+🌍;Veri+Bilimi+ve+Yapay+Zeka+öğreniyorum+📊🧠;Learning+Data+Science+and+AI+with+curiosity+💡;Her+gün+bir+adım+daha+ileri+🚀;One+step+closer+every+day+🚀">
 </h3>
 
 
